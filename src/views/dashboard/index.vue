@@ -8,7 +8,7 @@
             <img v-imagerror="defaultImg" :src="staffPhoto">
           </div>
           <div class="headInfoTip">
-            <p class="firstChild">早安，{{ userInfo.company }}，祝你开心每一天！</p>
+            <p class="firstChild">早安，久安世纪，祝你开心每一天！</p>
             <p class="lastChild">{{ name }}    |  {{ userInfo.companyName }}-{{ userInfo.departmentName }}</p>
           </div>
         </div>
